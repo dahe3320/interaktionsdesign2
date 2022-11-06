@@ -1,0 +1,42 @@
+img {
+    width: 1535px;
+}
+
+h3, h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 300px;
+}
+
+.backtomap {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    border: 2px black solid;
+    border-radius: 5px;
+}
+
+#auktioner h1 {
+    background-color: #CB0044;
+    padding: 20px;
+    color: white;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+#auktioner {
+    background-color: rgba(221, 221, 221, 0.726);
+}
+
+#hansfrode p {
+    margin-left: 320px;
+    font-size: 17px;
+}
+
+#hansfrode img {
+    width: 30%;
+    float: right;
+    margin-right: 300px;
+}
